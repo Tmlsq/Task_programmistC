@@ -1,0 +1,6 @@
+﻿  taskC++.cpp
+C:\Users\nnnnn\source\repos\taskC++\taskC++\taskC++.cpp(33,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nnnnn\source\repos\taskC++\taskC++\taskC++.cpp(34,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nnnnn\source\repos\taskC++\taskC++\taskC++.cpp(60,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nnnnn\source\repos\taskC++\taskC++\taskC++.cpp(61,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  taskC++.vcxproj -> C:\Users\nnnnn\source\repos\taskC++\x64\Debug\taskC++.exe
